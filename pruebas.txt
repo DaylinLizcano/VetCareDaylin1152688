@@ -1,0 +1,76 @@
+14 operaciones
+// resultados al ejecutar el programa sin arreglos:
+
+
+Error: primero hay que crear los espacios
+
+ESPACIOS CREADOS
+Espacio|codigo=E1, tipo=PERRO, peso=30, estado=DISPONIBLE|
+Espacio|codigo=E2, tipo=PERRO, peso=20, estado=DISPONIBLE|
+Espacio|codigo=E3, tipo=GATO, peso=10, estado=DISPONIBLE|
+Espacio|codigo=E4, tipo=GATO, peso=12, estado=DISPONIBLE|
+
+Error: E1 no esta OCUPADO
+
+Ingreso 1 ACTIVO; E2 OCUPADO
+
+Error: el codigo M1 ya existe
+
+Error: el espacio no admite esta mascota por tipo o peso
+
+Ingreso 2 ACTIVO; E4 OCUPADO
+
+Error: el espacio E9 no existe
+
+Error: el espacio no admite esta mascota por tipo o peso
+
+E2 en MANTENIMIENTO; Max pasa a E1; ingreso 1 REUBICADO
+
+E4 en MANTENIMIENTO; no hay otro espacio para Luna; ingreso 2 PENDIENTE DE TRASLADO
+
+E1 en MANTENIMIENTO; no hay otro espacio para Max; ingreso 1 PENDIENTE DE TRASLADO
+
+Ingreso 3 ACTIVO; E3 OCUPADO
+
+Error: ya hay tres ingresos
+
+
+//PRUEBAS CON ARREGLOS RESULTADOS AL EJECUTAR EL PROGRAMA
+
+Error: primero hay que crear los espacios
+
+ESPACIOS CREADOS
+Espacio|codigo=E1, tipo=PERRO, peso=30, estado=DISPONIBLE|
+Espacio|codigo=E2, tipo=PERRO, peso=20, estado=DISPONIBLE|
+Espacio|codigo=E3, tipo=GATO, peso=10, estado=DISPONIBLE|
+Espacio|codigo=E4, tipo=GATO, peso=12, estado=DISPONIBLE|
+
+
+Error: E1 no esta OCUPADO
+
+Ingreso 1 ACTIVO; E2 OCUPADO
+
+Error: el codigo M1 ya existe
+
+Ingreso 2 ACTIVO; E4 OCUPADO
+
+Error: el espacio E9 no existe
+
+Error: el espacio no admite esta mascota por tipo o peso
+
+E2 en MANTENIMIENTO; Max pasa a E1; ingreso 1 REUBICADO
+
+E4 en MANTENIMIENTO; no hay otro espacio para Luna; ingreso 2 PENDIENTE DE TRASLADO
+
+E1 en MANTENIMIENTO; no hay otro espacio para Max; ingreso 1 PENDIENTE DE TRASLADO
+
+Ingreso 3 ACTIVO; E3 OCUPADO
+
+Error: ya hay tres ingresos
+
+
+
+
+
+
+

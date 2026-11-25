@@ -1,0 +1,8 @@
+modelo\Ingreso.class
+vista\VentanaVetCare.class
+app\PracticaArreglos.class
+modelo\Mascota.class
+app\Main.class
+modelo\Espacio.class
+controlador\ControladorVetCare.class
+modelo\ClinicaVet.class
